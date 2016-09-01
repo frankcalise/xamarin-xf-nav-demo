@@ -36,6 +36,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="MainPageCS.cs" />
+    <Compile Include="MasterPageCS.cs" />
+    <Compile Include="MasterPageItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
